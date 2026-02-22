@@ -47,7 +47,7 @@
     <header class="hero-section">
         <div>
             <h1 class="display-2 fw-bold">Adventure Awaits</h1>
-            <p class="lead">Discover the world's most beautiful hidden gems with our expert guides.</p>
+            <p class="lead">Discover the world's most beautiful hidden gems with our expert guides. We are available 24*7</p>
             <a href="#destinations" class="btn btn-primary btn-lg mt-3">Start Exploring</a>
         </div>
     </header>
